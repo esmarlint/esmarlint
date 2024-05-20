@@ -10,11 +10,11 @@ In addition to my passion for technology, I love photography 📸, I have a grea
 My skills include a wide range of technologies, among them:
 
 ![.NET](https://img.shields.io/badge/-.NET-512BD4?style=for-the-badge&logo=dotnet)
+![C#](https://img.shields.io/badge/-C%20Sharp-31007A?style=for-the-badge&logo=csharp)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=csharp)
 
 ## Featured Projects 🌟
 
