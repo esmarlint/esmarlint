@@ -19,6 +19,7 @@ My skills include a wide range of technologies, among them:
 ## Featured Projects 🌟
 
 - **CorePagination:** A pagination library for EF Core. [View on GitHub](https://github.com/esmarlint/CorePagination)
+- **FluentMail:** C# library for creating email templates using a fluent API, eliminating boilerplate code. Inspired by QuestPDF and ReactMail. [View on GitHub](https://github.com/esmarlint/FluentMail)
 
 ## Personal Interests 😄
 
